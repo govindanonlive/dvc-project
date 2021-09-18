@@ -1,4 +1,6 @@
 [core]
     remote = remote_storage
+[cache]
+    dir = /home/govindan/shared_cache
 ['remote "remote_storage"']
     url = /home/govindan/dvc_remote_1
