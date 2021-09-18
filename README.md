@@ -1,4 +1,8 @@
 # dvc-project
-Attempting to create a sample project for DVC
 
 Exploring Data Version Control With Python and DVC
+
+Use a tool called DVC to tackle some of these challenges
+# Track and version your datasets and models
+# Share a single development computer between teammates
+# Create reproducible machine learning experiments
